@@ -1,0 +1,64 @@
+CREATE TABLE students (UIN INTEGER, name VARCHAR(20), major VARCHAR(30), year INTEGER, credits INTEGER) PRIMARY KEY (UIN);
+CREATE TABLE classes (classID INTEGER, class VARCHAR(30), credits INTEGER, students INTEGER) PRIMARY KEY (classID);
+
+INSERT INTO students VALUES FROM (1, "Kameron Goodman", "Computer Engineering", 2016, 160);
+INSERT INTO students VALUES FROM (2, "Jacob Hostler", "Computer Science", 2018, 75);
+INSERT INTO students VALUES FROM (3, "Neil Marklund", "Computer Science", 2017, 90);
+INSERT INTO students VALUES FROM (4, "Caleb Edens", "Computer Science", 2018, 85);
+INSERT INTO students VALUES FROM (5, "Bob the Builder", "Construction", 2016, 120);
+
+SHOW students;
+
+INSERT INTO classes VALUES FROM (1, "CSCE 315", 4, 50);
+INSERT INTO classes VALUES FROM (2, "CSCE 313", 4, 30);
+INSERT INTO classes VALUES FROM (3, "Underwater Basket Weaving", 2, 80);
+INSERT INTO classes VALUES FROM (4, "Geology 101", 3, 100);
+INSERT INTO classes VALUES FROM (5, "Calculus", 5, 200);
+
+SHOW classes;
+
+csStudents <- select (major == "Computer Science") students;
+ceStudents <- select (major == "Computer Engineering") students;
+gradCsStudents <- select (major == "Computer Science" && year >= 2016) csStudents;
+
+SHOW gradCsStudents;
+
+#testing union
+computerStudents <- csStudents + ceStudents;
+SHOW computerStudents;
+
+#testing difference
+nonCsStudents <- students - csStudents;
+SHOW nonCsStudents;
+
+#testing natural join
+CREATE TABLE classAssignments (ID INTEGER, name VARCHAR(20), class VARCHAR(30)) PRIMARY KEY (ID);
+INSERT INTO classAssignments VALUES FROM (1, "Jacob Hostler", "Underwater Basket Weaving");
+INSERT INTO classAssignments VALUES FROM (2, "Bob the Builder", "Geology 101");
+INSERT INTO classAssignments VALUES FROM (3, "Caleb Edens", "CSCE 313");
+INSERT INTO classAssignments VALUES FROM (4, "Kameron Goodman", "CSCE 315");
+INSERT INTO classAssignments VALUES FROM (5, "Neil Marklund", "Calculus");
+
+studentClassAssignments <- students JOIN classAssignments;
+SHOW studentClassAssignments;
+
+#testing project
+studentGradYears <- project (name, year) students;
+SHOW studentGradYears;
+
+DELETE FROM studentGradYears WHERE (year != 2018);
+
+WRITE studentGradYears;
+DROP TABLE studentGradYears;
+
+CREATE TABLE students2 (UIN INTEGER, name VARCHAR(20), major VARCHAR(30), year INTEGER, credits INTEGER) PRIMARY KEY (UIN);
+
+INSERT INTO students2 VALUES FROM RELATION students;
+
+
+WRITE students;
+WRITE classes;
+CLOSE students;
+CLOSE classes;
+
+EXIT;

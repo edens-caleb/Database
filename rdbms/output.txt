@@ -1,0 +1,296 @@
+All Engine tests passed.
+
+Primary Key     Attribute       	
+-1              Name            	
+1               Billy           	
+2               Jill            	
+3               Nick            	
+
+
+All Parser tests passed.
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	
+-1              class           	credits         	students        	
+1               CSCE 315        	4               	50              	
+2               CSCE 313        	4               	30              	
+3               Underwater Baske	2               	80              	
+4               Geology 101     	3               	100             	
+5               Calculus        	5               	200             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	class           	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	CSCE 315        	
+2               Jacob Hostler   	Computer Science	2018            	75              	Underwater Baske	
+3               Neil Marklund   	Computer Science	2017            	90              	Calculus        	
+4               Caleb Edens     	Computer Science	2018            	85              	CSCE 313        	
+5               Bob the Builder 	Construction    	2016            	120             	Geology 101     	
+
+
+
+Primary Key     Attribute       	Attribute       	
+-1              name            	year            	
+1               Kameron Goodman 	2016            	
+2               Jacob Hostler   	2018            	
+3               Neil Marklund   	2017            	
+4               Caleb Edens     	2018            	
+5               Bob the Builder 	2016            	
+
+
+All Engine tests passed.
+
+Primary Key     Attribute       	
+-1              Name            	
+1               Billy           	
+2               Jill            	
+3               Nick            	
+
+
+All Parser tests passed.
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	
+-1              class           	credits         	students        	
+1               CSCE 315        	4               	50              	
+2               CSCE 313        	4               	30              	
+3               Underwater Baske	2               	80              	
+4               Geology 101     	3               	100             	
+5               Calculus        	5               	200             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	class           	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	CSCE 315        	
+2               Jacob Hostler   	Computer Science	2018            	75              	Underwater Baske	
+3               Neil Marklund   	Computer Science	2017            	90              	Calculus        	
+4               Caleb Edens     	Computer Science	2018            	85              	CSCE 313        	
+5               Bob the Builder 	Construction    	2016            	120             	Geology 101     	
+
+
+
+Primary Key     Attribute       	Attribute       	
+-1              name            	year            	
+1               Kameron Goodman 	2016            	
+2               Jacob Hostler   	2018            	
+3               Neil Marklund   	2017            	
+4               Caleb Edens     	2018            	
+5               Bob the Builder 	2016            	
+
+
+All Engine tests passed.
+
+Primary Key     Attribute       	
+-1              Name            	
+1               Billy           	
+2               Jill            	
+3               Nick            	
+
+
+All Parser tests passed.
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	
+-1              class           	credits         	students        	
+1               CSCE 315        	4               	50              	
+2               CSCE 313        	4               	30              	
+3               Underwater Baske	2               	80              	
+4               Geology 101     	3               	100             	
+5               Calculus        	5               	200             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	class           	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	CSCE 315        	
+2               Jacob Hostler   	Computer Science	2018            	75              	Underwater Baske	
+3               Neil Marklund   	Computer Science	2017            	90              	Calculus        	
+4               Caleb Edens     	Computer Science	2018            	85              	CSCE 313        	
+5               Bob the Builder 	Construction    	2016            	120             	Geology 101     	
+
+
+
+Primary Key     Attribute       	Attribute       	
+-1              name            	year            	
+1               Kameron Goodman 	2016            	
+2               Jacob Hostler   	2018            	
+3               Neil Marklund   	2017            	
+4               Caleb Edens     	2018            	
+5               Bob the Builder 	2016            	
+
+
+All Engine tests passed.
+
+Primary Key     Attribute       	
+-1              Name            	
+1               Billy           	
+2               Jill            	
+3               Nick            	
+
+
+All Parser tests passed.
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	
+-1              class           	credits         	students        	
+1               CSCE 315        	4               	50              	
+2               CSCE 313        	4               	30              	
+3               Underwater Baske	2               	80              	
+4               Geology 101     	3               	100             	
+5               Calculus        	5               	200             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+2               Jacob Hostler   	Computer Science	2018            	75              	
+3               Neil Marklund   	Computer Science	2017            	90              	
+4               Caleb Edens     	Computer Science	2018            	85              	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	
+5               Bob the Builder 	Construction    	2016            	120             	
+
+
+
+Primary Key     Attribute       	Attribute       	Attribute       	Attribute       	Attribute       	
+-1              name            	major           	year            	credits         	class           	
+1               Kameron Goodman 	Computer Enginee	2016            	160             	CSCE 315        	
+2               Jacob Hostler   	Computer Science	2018            	75              	Underwater Baske	
+3               Neil Marklund   	Computer Science	2017            	90              	Calculus        	
+4               Caleb Edens     	Computer Science	2018            	85              	CSCE 313        	
+5               Bob the Builder 	Construction    	2016            	120             	Geology 101     	
+
+
+
+Primary Key     Attribute       	Attribute       	
+-1              name            	year            	
+1               Kameron Goodman 	2016            	
+2               Jacob Hostler   	2018            	
+3               Neil Marklund   	2017            	
+4               Caleb Edens     	2018            	
+5               Bob the Builder 	2016            	
+
+
